@@ -7,6 +7,10 @@
     <UserSecretsId>c15408b6-1017-4773-bbc2-61930237ea6e</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\js\site.js" />
+  </ItemGroup>
+
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
